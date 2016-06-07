@@ -1,3 +1,7 @@
+# csv files
 test.csv
+ans.csv
+# directory
 test_data/*
 training_data/*
+.ipynb_checkpoints/*
