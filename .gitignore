@@ -1,6 +1,6 @@
 # csv files
-test.csv
-ans.csv
+*.csv
+.*.csv
 # directory
 test_data/*
 training_data/*
