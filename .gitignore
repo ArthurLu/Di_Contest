@@ -3,5 +3,7 @@
 .*.csv
 # directory
 test_data/*
+test_data_2/*
 training_data/*
+training_data_2/*
 .ipynb_checkpoints/*
